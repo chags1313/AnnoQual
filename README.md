@@ -1,4 +1,4 @@
-## Annoqual
+## AnnoQual
 A tkinter gui with a manual annotation system for classifying pain vs no pain temporally in video data and a systatic framework/functionality for facial pain machine learning.
 
 Requirements:
